@@ -1,4 +1,4 @@
-**nitin019 is user name and its important to use during pushing the images**
+**nitin019 is my user name and its important to use during push the images**
 
 # Process of build image and push on (Docker Desktop or Docker Hub) and pull from Docker Hub
 
@@ -8,7 +8,7 @@
 
 <img width="1914" height="1017" alt="Screenshot 2025-11-01 223541" src="https://github.com/user-attachments/assets/e7c38551-eb50-4e49-a62a-35239a9f8c31" />
 
-## 3. Run image locally with post forwadding as same internal Docker port
+## 3. Run image locally with port forwadding as same internal Docker port
 
 <img width="1907" height="1015" alt="Screenshot 2025-11-01 223549" src="https://github.com/user-attachments/assets/7595a46c-de9a-457d-b0c0-3e715ce4ee33" />
 
