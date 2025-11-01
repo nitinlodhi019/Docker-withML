@@ -25,7 +25,7 @@
 
 Docker is a platform that allows you to package, ship, and run applications in isolated, lightweight environments called containers.
 
-<img width="659" height="440" alt="image" src="https://github.com/user-attachments/assets/1060b331-dfe3-4e4c-b98c-03e4ec95550e" />
+<img width="659" height="440" alt="image" src="https://github.com/user-attachments/assets/c116eccc-d354-45c5-b414-55ee2ba58eeb" />
 
 
 Docker is a tool that creates and runs containers — mini-environments that contain:
@@ -142,13 +142,14 @@ Docker guarantees same environment for all.
 
 ## How exactly docker is used??
 
-<img width="1000" height="546" alt="image" src="https://github.com/user-attachments/assets/4c058c8a-b914-4d61-86e4-7b59263bd21b" />
+<img width="1000" height="546" alt="image" src="https://github.com/user-attachments/assets/9ea49d94-a07c-48a8-a825-3185decb33f6" />
+
 
 ## Docker Engine
 
 Docker Engine is an open-source client-server technology that is the core component of the Docker platform, responsible for building, running, and managing containerized applications. It enables applications to run consistently across different environments (desktops, data centers, cloud providers), solving "dependency hell" for developers. 
 
-<img width="800" height="517" alt="image" src="https://github.com/user-attachments/assets/abcee66a-57d7-4ca9-a58b-9962a3e25cff" />
+<img width="800" height="517" alt="image" src="https://github.com/user-attachments/assets/a4612c5b-af25-4d6a-baa5-96e8f084d1ec" />
 
 ### Components of Docker Engine
 
