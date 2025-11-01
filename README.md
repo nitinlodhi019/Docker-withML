@@ -1,3 +1,26 @@
+**nitin019 is user name and its important to use during pushing the images**
+
+# Process of build image and push on (Docker Desktop or Docker Hub) and pull from Docker Hub
+
+## 1. Create a Dockerfile
+
+## 2. Build a image of project on Docker Desktop
+
+<img width="1914" height="1017" alt="Screenshot 2025-11-01 223541" src="https://github.com/user-attachments/assets/e7c38551-eb50-4e49-a62a-35239a9f8c31" />
+
+## 3. Run image locally with post forwadding as same internal Docker port
+
+<img width="1907" height="1015" alt="Screenshot 2025-11-01 223549" src="https://github.com/user-attachments/assets/7595a46c-de9a-457d-b0c0-3e715ce4ee33" />
+
+## 4. Push the project on Docker Hub
+
+<img width="1910" height="1011" alt="Screenshot 2025-11-01 223600" src="https://github.com/user-attachments/assets/244559a3-b5f0-4a64-96f1-47c4b0d345c7" />
+
+## 5. Pull the Docker image from Docker Hub and Run the image
+
+<img width="1908" height="1011" alt="Screenshot 2025-11-01 233222" src="https://github.com/user-attachments/assets/5d3ae9fa-d2d0-42a5-a381-a5f98bd3ffe3" />
+
+
 # Docker
 
 Docker is a platform that allows you to package, ship, and run applications in isolated, lightweight environments called containers.
